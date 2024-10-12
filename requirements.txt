@@ -1,3 +1,4 @@
+streamlit
 absl-py==1.4.0
 accelerate==0.34.2
 aiobotocore==2.15.1
